@@ -1,0 +1,12 @@
+h5py
+netcdf4
+numpy
+xarray
+cartopy
+matplotlib
+cfgrib
+dask
+eofs 
+hvplot
+boto3
+botocore
