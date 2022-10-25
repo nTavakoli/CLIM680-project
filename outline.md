@@ -1,17 +1,17 @@
-El Niño–La Niña cycle and recent trends in continental evaporation
+# El Niño–La Niña cycle and recent trends in continental evaporation
 
-Nazanin Tavakoli
+## Nazanin Tavakoli
 
-CLIM 680 - Fall 2022
+## CLIM 680 - Fall 2022
 
-Introduction
+### Introduction
 
 The hydrological cycle is expected to intensify in response to global warming with acceleration on a global scale. This holds in particular for terrestrial evaporation, the crucial return flow of water from land to the atmosphere. A better understanding of the interactions between soil moisture, vegetation activity, and evaporation, and how these variables are affected by climatic factors, is critical for informing debate on current and future changes in a warming world.
 As a result, in this project, I will show the atmospheric moisture content and evapotranspiration associated with La Niña (El Niño) events using the southern Oscillation Index (SOI). This topic has already been explored by other researchers  (Diego G. Miralles1 et al.).
 
-Data
+### Data
 
-ESA Climate Change Initiative (CCI) SM v06.1
+#### ESA Climate Change Initiative (CCI) SM v06.1
 This product provides global merged surface soil moisture datasets with NetCDF format at daily temporal resolution from 1978 to 2020 and spatial resolution of 0.25°; however, I will narrow my analysis only from 2011-2020 in the global domain due to the size of this dataset.
 
 References:
@@ -25,9 +25,9 @@ For more information, visit this website:
 
 https://esa-soilmoisture-cci.org/
 
-TerraClimate
+#### TerraClimate
 
-Actual Evapotranspiration
+##### Actual Evapotranspiration
 
 TerraClimate is a dataset of monthly climate and climatic water balance for global terrestrial surfaces from 1958-2019. These data provide monthly climate and climatic water balance for global terrestrial surfaces with NetCDF format from 1958-2021 with a spatial resolution of ~4-km (1/24th degree).
 
@@ -39,9 +39,9 @@ For more information, visit this website:
 
 https://www.climatologylab.org/terraclimate.html
 
-Moderate Resolution Imaging Spectroradiometer (MODIS)
+#### Moderate Resolution Imaging Spectroradiometer (MODIS)
 
-Normalized Difference Vegetation Index (NDVI)
+##### Normalized Difference Vegetation Index (NDVI)
 
 The MOD13A3 Version 6 data are provided monthly NDVI index with HDF format at 1 kilometer (km) spatial resolution from 2000 to the present. In this project, we are using this data from 2011 to 2020.
 
@@ -53,7 +53,7 @@ For more information, visit this website:
 
 https://lpdaac.usgs.gov/products/mod13a3v006/
 
-Southern Oscillation Index (SOI) 
+#### Southern Oscillation Index (SOI) 
 
 SOI Index is the monthly index provided by NOAA (National Oceanic and Atmospheric Administration) from 1951 to the present.
 
@@ -61,7 +61,7 @@ For more information, visit this website:
 
 https://www.ncei.noaa.gov/access/monitoring/enso/soi
 
-Proposed Analysis
+### Proposed Analysis
 
 I will use the following analysis in this project:
 
@@ -79,10 +79,10 @@ Calculate monthly mean anomalies of ET, soil moisture, and NDVI during El Niño 
 
 Calculate the regression of SOI with ET and Soil moisture
 
-Functions
+## Functions
 
 I will create a set of functions for doing this project, such as calculating anomalies or labeling plots. More ideas for creating functions may come to my mind while I am working on this project.
 
-Conda Environment
+## Conda Environment
 
 All environments used in this project have been provided in the environment.yml file.
