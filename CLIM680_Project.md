@@ -38,23 +38,12 @@ SOI Index is the monthly index provided by NOAA (National Oceanic and Atmospheri
 
 Link to dataset description: https://www.ncei.noaa.gov/access/monitoring/enso/soi
 
-### Proposed Analysis
+### Results and Analysis
+Project Notebook via GitHub located within my "CLIM680_project" repository includes a series of jupyter notebooks containing all the labeled and commented code used in my analysis. Each topic will be discussed separately, along with a link to each relevant notebook.
 
-I will use the following analysis in this project:
+Link: 
 
-Interpolating or extrapolating data
 
-Use the groupby function to calculate climatologies by month or year
-
-Calculate the Time series of global annual anomalies of ET
-
-Calculate the Spatial distribution of the linear trends in ET
-
-Calculate the correlation coefficient between monthly anomalies of ET and the SOI, the SOI and soil moisture, and the SOI and NDVI
-
-Calculate monthly mean anomalies of ET, soil moisture, and NDVI during El Niño and La Niña
-
-Calculate the regression of SOI with ET and Soil moisture
 
 ### Functions
 
