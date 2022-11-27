@@ -62,13 +62,29 @@ The figures from my project notebook are saved in a seperate 'figures' subdirect
 
 Link: 
 
+### Climatology and Anomalies
+
+Link: 
+
+### Composite AET Anomalies during ENSO
+
+Link:
+
+### Regression Analysis 
+
+Link:
+
+### Correlation Analysis
+
+Link:
+
 ### Summary
 
 
 
 
 
-### References:
+### References
 W. Dorigo et al., “ESA CCI Soil Moisture for improved Earth system understanding: State-of-the art and future directions,” Remote Sens. Environ., vol. 203, pp. 185–215, 2017, doi: https://doi.org/10.1016/j.rse.2017.07.001.
 
 A. Gruber, T. Scanlon, R. van der Schalie, W. Wagner, and W. Dorigo, “Evolution of the ESA CCI Soil Moisture climate data records and their underlying merging methodology,” Earth Syst. Sci. Data, vol. 11, no. 2, pp. 717–739, 2019, doi: https://doi.org/10.5194/essd-11-717-2019.
