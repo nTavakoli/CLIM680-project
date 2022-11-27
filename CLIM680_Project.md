@@ -41,13 +41,15 @@ Link to dataset description: https://www.ncei.noaa.gov/access/monitoring/enso/so
 ### Results and Analysis
 Project Notebook via GitHub located within my "CLIM680_project" repository includes a series of jupyter notebooks containing all the labeled and commented code used in my analysis. Each topic will be discussed separately, along with a link to each relevant notebook.
 
-Link: 
-
-
+Link: https://github.com/nTavakoli/CLIM680-project
 
 ### Functions
 
-I will create a set of functions for doing this project, such as calculating anomalies or labeling plots. More ideas for creating functions may come to my mind while I am working on this project.
+Two sets of functions were created to calculate climatologies and anomalies and or labeling plots.
+
+Link to xyticks function:
+
+Link to climo,anoms function:
 
 ### Conda Environment
 
