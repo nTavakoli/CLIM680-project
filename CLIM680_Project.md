@@ -47,9 +47,9 @@ Link: https://github.com/nTavakoli/CLIM680-project
 
 Two sets of functions were created to calculate climatologies and anomalies and or labeling plots.
 
-Link to xyticks function:
+Link to xyticks function: https://github.com/nTavakoli/CLIM680-project/blob/main/Functions/Defining_xricks_yticks_function.ipynb
 
-Link to climo,anoms function:
+Link to climo,anoms function: https://github.com/nTavakoli/CLIM680-project/blob/main/Functions/climo_anoms_function.ipynb
 
 ### Conda Environment
 
