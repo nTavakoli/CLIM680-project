@@ -38,6 +38,8 @@ SOI Index is the monthly index provided by NOAA (National Oceanic and Atmospheri
 
 Link to dataset description: https://www.ncei.noaa.gov/access/monitoring/enso/soi
 
+![Southern Oscillation Index for 2011-2020](https://user-images.githubusercontent.com/114028224/204163634-65e776a5-d8ac-486a-a5d6-685b1861e2ff.png)
+
 ### Results and Analysis
 Project Notebook via GitHub located within my "CLIM680_project" repository includes a series of jupyter notebooks containing all the labeled and commented code used in my analysis. Each topic will be discussed separately, along with a link to each relevant notebook.
 
