@@ -56,3 +56,27 @@ Link to climo,anoms function: https://github.com/nTavakoli/CLIM680-project/blob/
 ### Conda Environment
 
 All environments used in this project have been provided in the environment.yml file.
+
+### Figures
+The figures from my project notebook are saved in a seperate 'figures' subdirectory, as well as shown in the project notebook.
+
+Link: 
+
+### Summary
+
+
+
+
+
+### References:
+W. Dorigo et al., “ESA CCI Soil Moisture for improved Earth system understanding: State-of-the art and future directions,” Remote Sens. Environ., vol. 203, pp. 185–215, 2017, doi: https://doi.org/10.1016/j.rse.2017.07.001.
+
+A. Gruber, T. Scanlon, R. van der Schalie, W. Wagner, and W. Dorigo, “Evolution of the ESA CCI Soil Moisture climate data records and their underlying merging methodology,” Earth Syst. Sci. Data, vol. 11, no. 2, pp. 717–739, 2019, doi: https://doi.org/10.5194/essd-11-717-2019.
+
+A. Gruber, W. A. Dorigo, W. Crow, W. Wagner, “Triple Collocation-Based Merging of Satellite Soil Moisture Retrievals”, IEEE Transactions on Geoscience and Remote Sensing. PP. 1-13, (2017), https://doi.org/10.1109/TGRS.2017.2734070
+
+J. T. Abatzoglou, S. Z. Dobrowski, S. A. Parks, and K. C. Hegewisch, “TerraClimate, a high-resolution global dataset of monthly climate and climatic water balance from 1958-2015,” Sci. Data, vol. 5, pp. 1–12, 2018, doi: 10.1038/sdata.2017.191.
+
+
+### Acknowledgments
+I would like to thank both the CLIM680 instructors Prof. Paul Dirmeyer and Prof. Luis Ortiz Uriarte for coding assistance and answering questions.
