@@ -86,11 +86,19 @@ During La Niña, positive composite with SOI dominates over most of Australia, a
 
 ![Composite Soil Moisture Anomalies during ENSO](https://user-images.githubusercontent.com/114028224/204169649-21654981-1dc6-4f27-a5b7-f806184d8f86.png)
 
-Link:
+Link: https://github.com/nTavakoli/CLIM680-project/blob/main/Codes/Composite_AET_SOI.ipynb
+
+Link: https://github.com/nTavakoli/CLIM680-project/blob/main/Codes/Composite_SM_SOI.ipynb
 
 ### Regression Analysis 
 
-Link:
+![Regression between SOI and AET Anomalies](https://user-images.githubusercontent.com/114028224/204174092-89af5a0b-ca69-4f5c-a5cf-4260105b8ea1.png)
+
+![Regression between SOI and Soil Moisture Anomalies](https://user-images.githubusercontent.com/114028224/204174136-16c7be60-a8af-4f7f-8b7c-1ab7c9c9533f.png)
+
+
+
+Link:https://github.com/nTavakoli/CLIM680-project/blob/main/Codes/Linear%20Regression.ipynb
 
 ### Correlation Analysis
 
