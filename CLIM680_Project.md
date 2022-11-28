@@ -110,6 +110,12 @@ Link: https://github.com/nTavakoli/CLIM680-project/blob/main/Codes/Linear%20Regr
 
 ### Correlation Analysis
 
+For correlation analysis, the correlation of each of the two variables (soil moisture and actual evapotranspiration) with the SOI index was investigated, and plots are shown in the following. Dotting represents statistically significant (p<0.05) correlations.
+
+Firstly, the monthly mean anomalies of AET show significant positive correlations with the Southern Oscillation Index (SOI) in the northwest of Australia as well as in a small region in the southeast (0.30<R<0.45). Also, a strong statistically significant positive correlation between soil moisture and SOI index is found in these regions (0.30<R<0.60). My results indicate that there is a weak statistically significant correlation between AET and SOI index and between soil moisture and SOI index in other parts of Australia.
+
+During El Niño, there is typically a decrease in the amount of rain falling over Australia and more heatwaves and droughts occur in these parts, especially in the northwestern due to the weak trade winds leading to the warm weather shifting to the eastern part of equatorial Pacific ocean. This reduced moisture supply is potentially related to changes in atmospheric circulation and decreases in evaporation in these regions. The significant correlation between AET and SOI as well as between soil moisture and SOI index confirms that during El Niño episodes an overall reduction in land precipitation limits terrestrial water storage, resulting in less continental evaporation, which can cause a reduction in soil moisture and intensify droughts in the northwest part of Australia.
+
 
 ![Correlation Coefficient between SOI and AET Anomalies](https://user-images.githubusercontent.com/114028224/204306992-ecefbc72-8676-4b36-b0f0-b0351874b1ce.png)
 
