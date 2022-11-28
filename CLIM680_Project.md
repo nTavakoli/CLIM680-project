@@ -142,4 +142,3 @@ J. T. Abatzoglou, S. Z. Dobrowski, S. A. Parks, and K. C. Hegewisch, “TerraCli
 
 ### Acknowledgments
 I would like to thank both the CLIM680 instructors Prof. Paul Dirmeyer and Prof. Luis Ortiz Uriarte for coding assistance and answering questions.
-theme: Cayman
