@@ -71,6 +71,12 @@ Link:
 
 ### Climatology and Anomalies
 
+![Time series of AET   SOI monthly anomalies](https://user-images.githubusercontent.com/114028224/204381182-a3e869c5-b26f-4589-96a9-368235bdb514.png)
+
+![Time series of SM   SOI monthly anomalies](https://user-images.githubusercontent.com/114028224/204381271-dab83d27-80b0-48e4-af7d-a59b07342add.png)
+
+
+
 Link: 
 
 ### Composite AET and SM Anomalies during ENSO
