@@ -64,10 +64,12 @@ Link to climo,anoms function: https://github.com/nTavakoli/CLIM680-project/blob/
 
 All environments used in this project have been provided in the environment.yml file.
 
+Link: https://github.com/nTavakoli/CLIM680_Project/blob/main/environment.yml
+
 ### Figures
 The figures from my project notebook are saved in a seperate 'figures' subdirectory, as well as shown in the project notebook.
 
-Link: 
+Link: https://github.com/nTavakoli/CLIM680_Project/tree/main/Figures
 
 ### Climatology and Anomalies
 
@@ -77,7 +79,7 @@ Link:
 
 
 
-Link: 
+Link: https://github.com/nTavakoli/CLIM680_Project/blob/main/Codes/Monthly%20anomalies%20of%20SOI%20%26%20AET%20and%20SM.ipynb
 
 ### Composite AET and SM Anomalies during ENSO
 
@@ -112,7 +114,7 @@ It should be noted that the strongest positive slope between soil moisture and S
 
 
 
-Link: https://github.com/nTavakoli/CLIM680-project/blob/main/Codes/Linear%20Regression.ipynb
+Link: https://github.com/nTavakoli/CLIM680_Project/blob/main/Codes/Linear%20Regression%26Correlation%20Coefficient.ipynb
 
 ### Correlation Analysis
 
@@ -128,7 +130,7 @@ During El Niño, there is typically a decrease in the amount of rain falling ove
 
 ![Correlation Coefficient between SOI and Soil Moisture Anomalies](https://user-images.githubusercontent.com/114028224/204307078-6c9a9ecc-7f4d-4682-8fbd-81b73cc66d32.png)
 
-Link:
+Link: https://github.com/nTavakoli/CLIM680_Project/blob/main/Codes/Linear%20Regression%26Correlation%20Coefficient.ipynb
 
 ### Summary
 
