@@ -92,7 +92,15 @@ Link: https://github.com/nTavakoli/CLIM680-project/blob/main/Codes/Composite_SM_
 
 ### Regression Analysis 
 
+For linear regression analysis, anomalies were once again calculated for each of the two variables, including soil moisture and actual evapotranspiration.
+
+First, the regression was applied between the SOI and actual evapotranspiration anomaly time series, see the following. The regression coefficient is positive in most of Australia, except in the northeast and some part of central, however, a strong positive slope between the SOI and actual evapotranspiration can be observed in the western part of Australia, with statistically significant regression coefficients at the 95% confidence level indicated by the hatchings.
+
 ![Regression between SOI and AET Anomalies](https://user-images.githubusercontent.com/114028224/204174092-89af5a0b-ca69-4f5c-a5cf-4260105b8ea1.png)
+
+Second, a panel plot map of the linear regression between SOI and soil moisture is then shown, dotting represents statistically significant (p<0.05). Based on this map, areas of the strongest positive slope between soil moisture anomalies and the SOI Index are found in the northeast and northwest of Australia. Most regions have a positive slope, however, the values of the regression coefficient between soil moisture anomalies and the SOI are small. This can be because of noise in the precipitation datasets. As we know, soil moisture is responding to precipitation, and precipitation is a noisy field. 
+
+It should be noted that the strongest positive slope between soil moisture and SOI index and between actual evapotranspiration and SOI is observed in the same region, northwest of Australia.
 
 ![Regression between SOI and Soil Moisture Anomalies](https://user-images.githubusercontent.com/114028224/204174136-16c7be60-a8af-4f7f-8b7c-1ab7c9c9533f.png)
 
