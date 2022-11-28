@@ -75,6 +75,11 @@ Link:
 
 ### Composite AET and SM Anomalies during ENSO
 
+The composite analysis was performed on actual evapotranspiration anomalies and soil moisture over Australia with the SOI index. These Composites were then plotted during El Niño, La Niña, and neutral events, mentioned in the following. The composite of actual evapotranspiration anomalies indicates that most of Australia have a negative composite with SOI during El Niño, especially in the east, north, and north-western of this continent; however, a weak positive composite can be observed in the north-eastern. Also, the weak negative composite of soil moisture with SOI is observed in the northern and central of Australia during El Niño.
+
+During La Niña, positive composite with SOI dominates over most of Australia, and the strongest ones are in central and western. This pattern seems to be found in the plot of soil moisture composite with SOI with less strength compared to actual evapotranspiration composite during La Niña condition.
+
+
 
 ![Composite Actual Evapotranspiration Anomalies during ENSO](https://user-images.githubusercontent.com/114028224/204168393-1c3a4d05-50a4-45b3-a2c7-74225f76bf4a.png)
 
