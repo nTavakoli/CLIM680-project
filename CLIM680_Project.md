@@ -106,9 +106,15 @@ It should be noted that the strongest positive slope between soil moisture and S
 
 
 
-Link:https://github.com/nTavakoli/CLIM680-project/blob/main/Codes/Linear%20Regression.ipynb
+Link: https://github.com/nTavakoli/CLIM680-project/blob/main/Codes/Linear%20Regression.ipynb
 
 ### Correlation Analysis
+
+
+![Correlation Coefficient between SOI and AET Anomalies](https://user-images.githubusercontent.com/114028224/204306992-ecefbc72-8676-4b36-b0f0-b0351874b1ce.png)
+
+
+![Correlation Coefficient between SOI and Soil Moisture Anomalies](https://user-images.githubusercontent.com/114028224/204307078-6c9a9ecc-7f4d-4682-8fbd-81b73cc66d32.png)
 
 Link:
 
