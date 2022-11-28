@@ -73,7 +73,13 @@ Link:
 
 Link: 
 
-### Composite AET Anomalies during ENSO
+### Composite AET and SM Anomalies during ENSO
+
+
+![Composite Actual Evapotranspiration Anomalies during ENSO](https://user-images.githubusercontent.com/114028224/204168393-1c3a4d05-50a4-45b3-a2c7-74225f76bf4a.png)
+
+
+![Composite Soil Moisture Anomalies during ENSO](https://user-images.githubusercontent.com/114028224/204169649-21654981-1dc6-4f27-a5b7-f806184d8f86.png)
 
 Link:
 
