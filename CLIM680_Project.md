@@ -98,7 +98,7 @@ First, the regression was applied between the SOI and actual evapotranspiration 
 
 ![Regression between SOI and AET Anomalies](https://user-images.githubusercontent.com/114028224/204174092-89af5a0b-ca69-4f5c-a5cf-4260105b8ea1.png)
 
-Second, a panel plot map of the linear regression between SOI and soil moisture is then shown, dotting represents statistically significant (p<0.05). Based on this map, areas of the strongest positive slope between soil moisture anomalies and the SOI Index are found in the northeast and northwest of Australia. Most regions have a positive slope, however, the values of the regression coefficient between soil moisture anomalies and the SOI are small. This can be because of noise in the precipitation datasets. As we know, soil moisture is responding to precipitation, and precipitation is a noisy field. 
+Second, a panel plot map of the linear regression between SOI and soil moisture is then shown, and dotting represents statistically significant (p<0.05) regression. Based on this map, areas of the strongest positive slope between soil moisture anomalies and the SOI Index are found in the northeast and northwest of Australia. Most regions have a positive slope, however, the values of the regression coefficient between soil moisture anomalies and the SOI are small. This can be because of noise in the precipitation datasets. As we know, soil moisture is responding to precipitation, and precipitation is a noisy field. 
 
 It should be noted that the strongest positive slope between soil moisture and SOI index and between actual evapotranspiration and SOI is observed in the same region, northwest of Australia.
 
