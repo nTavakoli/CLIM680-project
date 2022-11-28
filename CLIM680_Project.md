@@ -64,8 +64,6 @@ Link to climo,anoms function: https://github.com/nTavakoli/CLIM680-project/blob/
 
 All environments used in this project have been provided in the environment.yml file.
 
-Link: https://github.com/nTavakoli/CLIM680_Project/blob/main/environment.yml
-
 ### Figures
 The figures from my project notebook are saved in a seperate 'figures' subdirectory, as well as shown in the project notebook.
 
