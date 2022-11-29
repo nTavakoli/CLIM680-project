@@ -71,7 +71,11 @@ Link: https://github.com/nTavakoli/CLIM680_Project/tree/main/Figures
 
 ### Climatology and Anomalies
 
+Time series of monthly anomalies of AET and SM have been plotted in response to the SOI index from 2011 to 2020 due to investigate the oscillation of AET and SM with the alternation of El Niño and La Niña events. The following plot reveals that years in which AET is high, coincide with La Niño conditions. On the other hand, years of low AET mostly correspond to El Niña years. 
+
 ![Time series of AET   SOI monthly anomalies](https://user-images.githubusercontent.com/114028224/204381182-a3e869c5-b26f-4589-96a9-368235bdb514.png)
+
+A panel plot of monthly anomalies of SM and SOI index shows that the largest amount of SM happened during La Nino. However, negative monthly anomalies of SM can be found during strong El Nino. As we know, El Niño events are associated with warmer temperatures and a reduction in rainfall which cause soil moisture to decrease.
 
 ![Time series of SM   SOI monthly anomalies](https://user-images.githubusercontent.com/114028224/204381271-dab83d27-80b0-48e4-af7d-a59b07342add.png)
 
