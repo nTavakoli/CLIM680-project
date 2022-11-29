@@ -1,4 +1,4 @@
-# El Niño–La Niña cycle and recent trends in continental evaporation
+# El Niño–La Niña cycle and recent trends in regional evapotranspiration and soil moisture
 
 ## Nazanin Tavakoli
 
