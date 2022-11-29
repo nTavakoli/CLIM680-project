@@ -136,9 +136,11 @@ Link: https://github.com/nTavakoli/CLIM680_Project/blob/main/Codes/Linear%20Regr
 
 ### Summary
 
+Our results suggest that El Niño conditions are typically associated with negative anomalies of actual evapotranspiration and soil moisture in Australia. Both transpiration and soil evaporation are abnormally low in these regions. On the other hand, positive anomalies in those same regions are characteristic of La Niña conditions. Areas where monthly anomalies of soil moisture are positively correlated to the SOI coincide with regions where AET is typically limited by the supply of water. This explains why we also find positive correlations between AET and SOI in those same regions. These results can also be found in previous studies (Diego G. Miralles et al.)
 
+To sum up, ENSO regulates the total volume of water vapor moving from continental land surfaces into the atmosphere. Terrestrial water shortages, as a consequence of low moisture supplies during El Niño, are the cause of vegetation stress and prolonged declines in AET. However, in the possible El Niño conditions will be intensified in the future, the total flux of water vapor from land to the atmosphere may in fact be progressively reduced. A recent study predicts the highest sensitivity of evapotranspiration to El Niño conditions. Consequences may be in the form of regional reductions in net primary production, water resources, or ecosystem services, and the intensification of feedback from soil moisture on precipitation and temperature.
 
-
+Investigating the response of ENSO to changes in global radiative forcing, precipitation patterns, and temperature extremes can be done in the future.
 
 ### References
 W. Dorigo et al., “ESA CCI Soil Moisture for improved Earth system understanding: State-of-the art and future directions,” Remote Sens. Environ., vol. 203, pp. 185–215, 2017, doi: https://doi.org/10.1016/j.rse.2017.07.001.
